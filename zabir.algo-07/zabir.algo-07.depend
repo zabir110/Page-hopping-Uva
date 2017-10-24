@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508913263 source:c:\users\dell\desktop\war\zabir.algo-07\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
